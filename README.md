@@ -1,1 +1,2 @@
-# nicolasfavier.github.io
+# My personal website
+https://nicolasfavier.github.io/
